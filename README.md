@@ -1,5 +1,6 @@
+![I am always learning ...](https://cdn.statically.io/img/timelinecovers.pro/facebook-cover/download/do-not-give-up-motivational-facebook-cover.jpg)
 <h1 align="center">Hi 👋, I'm Shafin</h1>
-<h3 align="center">A passionate frontend developer from I</h3>
+<h3 align="center">I am always learning</h3>
 
 - 🔭 I’m currently working on **React projects**
 
